@@ -1,0 +1,3 @@
+psql -d 71639947123101697 -c 'SELECT history_operation_id, "order", type, details FROM exp_history_effects WHERE history_operation_id=71639947123101697' > exp_history_effects.out
+
+psql -d 71639947123101697 -c 'SELECT history_operation_id, "order", type, details FROM history_effects WHERE history_operation_id=71639947123101697' > history_effects.out

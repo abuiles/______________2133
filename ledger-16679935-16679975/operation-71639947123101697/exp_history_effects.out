@@ -1,0 +1,8 @@
+ history_operation_id | order | type |                                         details                                         
+----------------------+-------+------+-----------------------------------------------------------------------------------------
+    71639947123101697 |     1 |   12 | {"weight": 1, "public_key": "GCHDGFUGRMN5BR74LEBUMHHTWYIBIMI6M2LL2K3EQSRUF6GV6MAT4ZQK"}
+    71639947123101697 |     2 |   12 | {"weight": 3, "public_key": "GCSSUJMFZXSCXD4ZBFWOD5WT3DVKUF2B4Y6OYIHPQXKV6BMSAR2KOV7P"}
+    71639947123101697 |     3 |   12 | {"weight": 2, "public_key": "TAK6WFW3NLBIDOSINB7X6C53BEITGMJ27OWUKMEB5OPTJCWUD7XDR53G"}
+    71639947123101697 |     4 |   12 | {"weight": 2, "public_key": "TC77I3EPAMOZDGBPVEAHEZGQ2ISNWVIE2EHLZITNDCZCQ2JPJSXHZUC6"}
+(4 rows)
+
